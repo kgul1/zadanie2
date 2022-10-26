@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-main(void)
+int main(void)
 {
     float a, b, wynik;
     cout << "podaj liczbe a: ";
